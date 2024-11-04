@@ -1,0 +1,32 @@
+@media (max-width: 375px) {
+    .card {
+        max-width: 100%;
+        padding: 15px;
+    }
+
+    .card-header .learning {
+        font-size: 14px;
+        padding: 4px 8px;
+    }
+
+    .card-header .date {
+        font-size: 12px;
+    }
+
+    .card-title .title  a{
+        font-size: 20px;
+    }
+
+    .card-title .resume {
+        font-size: 14px;
+    }
+
+    .author .author-image {
+        width: 35px;
+        height: 35px;
+    }
+
+    .author .name-author {
+        font-size: 14px;
+    }
+}
